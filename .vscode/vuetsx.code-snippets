@@ -1,0 +1,17 @@
+{
+	"vuetsx template": {
+		"prefix": "vuetsx",
+		"body": [
+			"import { defineComponent } from 'vue'\n",
+			"export default defineComponent({",
+			"  props: {},",
+			"  emits: [],",
+			"  components: {},",
+			"  setup(props, ctx) {",
+			"    return () => <div></div>",
+			"  }",
+			"})",
+		],
+		"description": "Create vue template"
+	}
+}
